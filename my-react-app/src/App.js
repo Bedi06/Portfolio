@@ -1,7 +1,7 @@
 import "./App.css";
 import AboutMe from "./components/AboutMe";
 import DrawerAppBar from "./components/DrawerAppBar";
-import SideNav from ".//sidenav";
+import SideNav from "./components/SideNav";
 
 function App() {
   return (
