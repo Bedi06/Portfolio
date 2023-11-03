@@ -4,13 +4,7 @@ import Box from "@mui/material/Box";
 
 function AboutMe() {
   return (
-    <Box
-      id="about"
-      display="flex"
-      justifyContent="center"
-      alignItems="center"
-      height="100vh" // Set the height to fill the viewport
-    >
+    <Box className="AboutMeContainer">
       <div>
         <Typography variant="h2" gutterBottom>
           About Me

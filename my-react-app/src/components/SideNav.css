@@ -1,0 +1,14 @@
+/* SideNav.css */
+
+/* SideNav.css */
+.SideNavContainer {
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 250px; /* Set a fixed width */
+  background-color: rgb(108, 52, 52);
+  z-index: 1;
+  overflow-y: auto;
+  border-radius: 15px;
+}
